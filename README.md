@@ -1,2 +1,2 @@
 # UnityPractice
-Unity learning practice files
+Unity 2D practice files
