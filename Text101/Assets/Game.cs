@@ -6,11 +6,15 @@ using UnityEngine.UI;
 public class Game : MonoBehaviour
 {
     [SerializeField] Text textComponent;
+    [SerializeField] State startingState;
+    
+    State state;
 
     // Start is called before the first frame update
     void Start()
     {
-        textComponent.text = "This is a story text after clicking 'PLAY'.";
+        state = startingState;
+        textComponent.text = state.GetStateStory();
     }
 
     // Update is called once per frame
