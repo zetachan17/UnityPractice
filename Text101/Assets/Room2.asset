@@ -15,4 +15,3 @@ MonoBehaviour:
   storyText: This is room2
   nextStates:
   - {fileID: 11400000, guid: af84bbb1c5dae9b4ca569b890c044cdb, type: 2}
-  - {fileID: 11400000}
