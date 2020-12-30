@@ -6,8 +6,7 @@ using UnityEngine.UI;
 public class Game : MonoBehaviour
 {
     [SerializeField] Text textComponent;
-    [SerializeField] State startingState;
-    
+    [SerializeField] State startingState;   
     State state;
 
     // Start is called before the first frame update
