@@ -10,9 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 045bde00b4abb0940b30b843a0badc02, type: 3}
-  m_Name: StartingState
+  m_Name: A0. Introduction
   m_EditorClassIdentifier: 
-  storyText: This is a starting state text.
+  storyText: 'This is a Intro
+
+'
   nextStates:
-  - {fileID: 11400000, guid: af84bbb1c5dae9b4ca569b890c044cdb, type: 2}
-  - {fileID: 11400000, guid: c60fd2d748daddc4595f8e08623f07de, type: 2}
+  - {fileID: 11400000, guid: c4fdb94cd70ca5e48943955deb063e26, type: 2}
+  - {fileID: 11400000}
