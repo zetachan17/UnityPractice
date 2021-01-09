@@ -221,8 +221,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 143.5, y: 15.2}
-  m_SizeDelta: {x: 331.63593, y: 73.40193}
+  m_AnchoredPosition: {x: 403, y: 82.572}
+  m_SizeDelta: {x: 746.1325, y: 165.14365}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &367770202
 MonoBehaviour:
@@ -270,8 +270,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -356,8 +356,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 170.33, y: -103.18}
-  m_SizeDelta: {x: 145.65863, y: 58.68286}
+  m_AnchoredPosition: {x: 403.00003, y: -266}
+  m_SizeDelta: {x: 468.39764, y: 188.70775}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &406229488
 MonoBehaviour:
@@ -568,8 +568,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -181, y: -15}
-  m_SizeDelta: {x: 193.38434, y: 193.38434}
+  m_AnchoredPosition: {x: -473.2, y: -61.8}
+  m_SizeDelta: {x: 717.95294, y: 717.95294}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1198049479
 MonoBehaviour:
@@ -721,10 +721,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -835,8 +835,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
